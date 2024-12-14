@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+alembic
+pydantic
+python-jose
+passlib[bcrypt]==1.7.4
+python-multipart
